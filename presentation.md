@@ -1,6 +1,7 @@
 ### `test && commit || revert`
 
 ### *Joe Wright* & *Keith Harrison* 
+### CodeCraft
 #### __@joe_jag__ & __@KeithDHar__
 
 ---
@@ -19,7 +20,8 @@
 
 ---
 
-> test && commit || revert. If the tests fail, then the code goes back to the state where the tests last passed
+> `test && commit || revert`<br/> 
+> If the tests fail, then the code goes back to the state where the tests last passed
 -- Kent Beck
 
 ---
@@ -110,11 +112,11 @@ done
 
 # You can find the problem at
 
-* http://bit.do/tcrnumbers
+* https://bit.do/tcrnumbers
 
 ---
 
-## Write down on a post-it about how you feel about TCR right now
+## Write down on a post-it abouthow you feel about TCR right now
 
 ### __(discuss in group,<br/> write down on your own)__
 
